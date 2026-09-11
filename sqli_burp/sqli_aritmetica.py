@@ -1,7 +1,7 @@
 import argparse
 import requests
 import sys
-sys.path.append("/home/ksi/Desktop/sqli_burp/Burpee")
+sys.path.append("/Burpee")
 import burpee
 import warnings
 from requests.packages.urllib3.exceptions import InsecureRequestWarning
